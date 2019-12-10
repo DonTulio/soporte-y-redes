@@ -92,7 +92,7 @@ namespace app_arnold
             Console.WriteLine("█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█          █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█          █ .:     / \\     :.'");
             Console.WriteLine("█                                                    █          █   5.) CSPRODUCT      █          █ ':    (. .)    :'");
             Console.WriteLine("█                                                    █          █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█          █ '.   .:::::.  .'");
-            Console.WriteLine("█        INDIQUE SU OPCION [1-9]                     █          █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█          █  :  ^<-----^> :");
+            Console.WriteLine("█        INDIQUE SU OPCIÓN [1-9]                     █          █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█          █  :  ^<-----^> :");
             Console.WriteLine("█                                                    █          █   6.) RAM            █          █  '.   ~:::~  .'");
             Console.WriteLine("█                  [ 0.) SALIR ]                     █          █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█          █    '........'");
             Console.WriteLine("█                                                    █          █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█          █       ");
